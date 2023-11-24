@@ -1,4 +1,2 @@
-hey hey ia m test 2 file 
-thank you
-from feature1branch
-thank you goodbye
+changing file for course feature branch 4
+adding something after commit from master branch
